@@ -1,1 +1,30 @@
-{}
+{
+  "Muhammad_lbn": {
+    "username": "Muhammad_lbn",
+    "password": "DFUDSETFGG5Aqq094",
+    "student_type": "علمي",
+    "telegram_user_id": "7752733453",
+    "telegram_username": null,
+    "telegram_first_name": "Muhammad",
+    "profile_photo_url": null,
+    "session_id": "85bb6d3b-9dd9-4cb3-aa45-b631cc2462c6",
+    "created_at": "2026-05-11T18:16:44.572553",
+    "verified": true,
+    "last_login": "2026-05-11T18:19:23.724644",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "it",
+      "biology",
+      "english",
+      "math",
+      "statistics",
+      "chemistry",
+      "physics_electric",
+      "physics_mechanic",
+      "literary_studies",
+      "linguistic_studies"
+    ],
+    "server_num": 46
+  }
+}
