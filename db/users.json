@@ -26,5 +26,23 @@
       "linguistic_studies"
     ],
     "server_num": 46
+  },
+  "taleb2008aligmailc": {
+    "username": "taleb2008aligmailc",
+    "password": "00000000010Ali.",
+    "student_type": "علمي",
+    "telegram_user_id": "6367928963",
+    "telegram_username": null,
+    "telegram_first_name": "Pagenda🤙🏽🤫",
+    "profile_photo_url": "https://api.telegram.org/file/bot8617861788:AAFsAqaOxJcdsZ6fMsd53kRVXi7aTmIokWs/photos/file_95.jpg",
+    "session_id": "f44528d7-29d6-4f7b-bd01-9c23a1c63dce",
+    "created_at": "2026-05-14T03:46:42.774423",
+    "verified": true,
+    "last_login": "2026-05-14T03:46:46.141217",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic"
+    ],
+    "server_num": 46
   }
 }
